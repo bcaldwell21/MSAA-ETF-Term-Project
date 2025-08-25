@@ -65,3 +65,13 @@ I built a rules-based, regime-aware multi-asset strategy that blends machine-lea
 ### Disclaimer
 Educational research only. Backtests and simulations are not indicative of future results. No investment advice.
 
+___
+
+## GenAI Tools
+
+I used ChatGPT to:
+- Edit and merge LaTeX for the written report
+- Give my code a sanity check
+- Draft a checklist
+- Produce lightweight scripts to export a `.txt` log from the `.ipynb` and to emit summary `.csv` tables from final metrics (no heavy re-runs)
+
