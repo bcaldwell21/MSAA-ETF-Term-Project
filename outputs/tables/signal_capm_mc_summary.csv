@@ -1,0 +1,13 @@
+Metric,Value
+Rank-IC mean,0.035
+Rank-IC IR,0.13
+Rank-IC N,96
+CAPM Beta,0.57
+CAPM Alpha (ann. %),3.76
+"CAPM Tracking Error (%, ann.)",10.0
+CAPM IR,0.38
+CAPM N,1516
+MC Median CAGR (%),7.5
+MC P5 CAGR (%),-0.01
+MC P95 CAGR (%),15.69
+MC Median Sharpe,0.71
