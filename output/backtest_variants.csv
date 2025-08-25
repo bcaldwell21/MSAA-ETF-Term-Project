@@ -1,0 +1,4 @@
+Strategy,CAGR(%),Vol(%),Sharpe,MaxDD(%)
+Enhanced RA-QP,8.27,10.58,0.8,-12.57
+TE/Beta (RA-λ),8.41,11.25,0.77,-15.17
+SPY (Benchmark),8.03,13.55,0.64,-18.7
